@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+<h1>Linh Le Games Studio</h1>
+<p>Privacy</p>
 </body>
 </html>
