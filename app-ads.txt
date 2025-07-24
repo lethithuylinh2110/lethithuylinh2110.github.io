@@ -2716,7 +2716,6 @@ supply.colossusssp.com, 547, reseller, 6c5b49d96ec1b458
 ssp.e-volution.ai, ajxf6r118a9m6catvk, reseller
 mman.kr, 32102, reseller
 rubiconproject.com, 25872, reseller, 0bfd66d529a55807
-
 adverty.com, 1995, DIRECT, 2b1a2f9cd997fcab
 openx.com, 539129292, reseller, 6a698e2ec38604c6
 xad.com, 240, reseller, 81cbf0a75a5e0e9a
