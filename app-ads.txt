@@ -10970,3 +10970,28 @@ freewheel.tv, 534605-r-523319, RESELLER
 sonobi.com, 292d7cb147, RESELLER, d1a215d9eb5aee9e
 33across.com, 001Pg0000197KcKIAU, RESELLER, bbea06d9c4d2853c
 lijit.com, 569924, RESELLER, fafdf38b16bf6b2b #SOVRN
+bold-win.com, 1117, RESELLER, 71746737d0bab951
+smartivi.ai, 357492, RESELLER
+lijit.com, 480816, RESELLER, fafdf38b16bf6b2b
+smaato.com,1100059476,RESELLER,07bcf65f187117b4
+Media.net, 8CU3VK579, RESELLER
+pubnative.net, 1016858, RESELLER, d641df8625486a7b
+pubmatic.com, 163162, RESELLER, 5d62403b186f2ace
+smoot.ai, 100104, RESELLER
+amxrtb.com, 105199934, RESELLER
+yandex.com, 311761695, RESELLER
+adform.com, 3320, RESELLER, 9f5210a2f0999e32
+imds.tv, 82655, RESELLER, ae6c32151e71f19d
+advertising.com, 82655, RESELLER
+smartadserver.com, 4721-OB, RESELLER, 060d053dcf45cbf3
+kidoz.net, 15614, RESELLER, a109366414b7335e
+prado.co, 15614, RESELLER
+onetag.com, 942b83b735f66de, RESELLER
+robust-apps.com, 201, RESELLER
+video.unrulymedia.com, 656687170, RESELLER
+nextmillennium.io, 17085, RESELLER, 65bd090fa4a1e3d6
+bematterfull.com, 3412449940079, RESELLER
+copper6.com, 766156, RESELLER
+opera.com,pub13541542357632,RESELLER,55a0c5fd61378de3
+lijit.com, 568191, RESELLER, fafdf38b16bf6b2b #SOVRN
+themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
