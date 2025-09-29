@@ -2171,6 +2171,71 @@ zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
 
 #adverty
+update 29/9/2025
+adverty.com, 1995, DIRECT, 2b1a2f9cd997fcab
+inmobi.com,ae6d6d3e5c77453b8361651a9ce29870,reseller,83e75a7ae333ca9d
+targetbetter.com,624654983,reseller
+onetag.com,5adb88524e24e50,reseller
+pubmatic.com,166396,reseller,5d62403b186f2ace
+pubmatic.com,164798,reseller,5d62403b186f2ace
+‍rubiconproject.com,22830,reseller,0bfd66d529a55807
+krushmedia.com,ajxf6r630a9m6catvk,reseller
+lijit.com,516513,reseller,fafdf38b16bf6b2b
+loopme.com,14129,reseller,6c8d5f95897a5a3b
+freewheel.tv,534996-r-524565,reseller
+ontextweb.com,562786,reseller,89ff185a4c4e857c
+video.unrulymedia.com,640018708,reseller
+programmaticx.ai,124654983,reseller,b42d42eb28400efa
+freewheel.tv,1237887,reseller
+appnexus.com,15774,reseller
+sonobi.com,f7b2a5d226,reseller,d1a215d9eb5aee9e
+freewheel.tv,1608120,reseller
+freewheel.tv,1608121,reseller
+adyoulike.com,95dcbc06a550cd02bc6ad7371dd000c7,reseller
+trustedstack.com,tsv5neqdw,reseller
+supply.colossusssp.com,838,reseller
+adyoulike.com,283e6e26614a07d896da0933c3719127,direct
+improvedigital.com,2385,reseller
+smaato.com,1100059476,reseller,07bcf65f187117b4
+video.unrulymedia.com,579227028,reseller
+smartyads.com,942,direct,fd2bde0ff2e62c5d
+sharethrough.com,kortppya,reseller,d53b998a7bd4ecd2
+adform.com,3243,reseller,9f5210a2f0999e32
+media.net,8cuu43moj,direct
+themediagrid.com,8zrkbe,reseller
+freewheel.tv,534996-r-523319,reseller
+freewheel.tv,1237839,reseller
+bidmachine.io,258,reseller
+improvedigital.com,2539,reseller
+pubmatic.com,166553,reseller,5d62403b186f2ace
+freewheel.tv,535395-r-523319,reseller
+‍smartadserver.com,4423,reseller,060d053dcf45cbf3
+showheroes.com,6038,reseller
+instreamatic.com,207,reseller
+conversantmedia.com,100957,reseller
+media.net,8cuh46n56,reseller
+inmobi.com,dfe9a1f0c51b4d46a61d676e9f3a9d69,reseller,83e75a7ae333ca9d
+zetaglobal.net,927,reseller
+appnexus.com,15686,reseller,f5ab79cb980f11d1
+152media.info,152m1091,reseller
+google.com,pub-8856559311549217,reseller,f08c47fec0942fa0
+freewheel.tv,535395-r-524565,reseller
+emetriq.com,10060,reseller
+adyoulike.com,02bbfc5dd0707834f452ab1bbe855a83,reseller
+‍xandr.com,13850,reseller,f5ab79cb980f11d1
+lijit.com,554656,reseller
+adipolo.com,102030,direct
+improvedigital.com,1698,reseller
+improvedigital.com,2558,reseller
+axis-marketplace.com,23,direct
+trustedstack.com,tslau41q2,reseller
+freewheel.tv,sg1248339,reseller
+onetag.com,847013a8430d672,reseller
+lijit.com,267257,reseller,fafdf38b16bf6b2b
+appnexus.com,16912,reseller,f5ab79cb980f11d1
+sonobi.com,37dd19ad4a,reseller
+media.net,8cu4ybh24,reseller
+rubiconproject.com,25512,reseller,0bfd66d529a55807
 adverty.com, 773, DIRECT, 2b1a2f9cd997fcab
 aniview.com, 603f65a2e291680ef30af9c7, reseller, 78b21b97965ec3f8
 openx.com, 539129292, reseller, 6a698e2ec38604c6
