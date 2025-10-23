@@ -11494,3 +11494,72 @@ video.unrulymedia.com, 6934634821880853826, RESELLER
 themediagrid.com, XBYGOC, RESELLER, 35d5010d7789b49d
 triplelift.com, 8614, RESELLER, 6c33edb13117fd86
 bigo.sg, 23169037, DIRECT
+#adverty update 23102025
+lunamedia.io,d5b7a3e0bf7575046765e5c639e98ab0,reseller,524ecb396915caaf
+pubmatic.com ,159035,reseller,5d62403b186f2ace
+adagio.io,1544,reseller
+adform.com,227224,reseller
+themediagrid.com,zg1dbn,reseller,35d5010d7789b49d
+blueseasx.com,7138094,reseller,7998eac5087f6110
+smilewanted.com,5807,reseller
+eskimi.com,2020001189,reseller
+bold-win.com,1136,reseller,71746737d0bab951
+mobimight.com,75764,reseller
+adform.com,3296,reseller,9f5210a2f0999e32
+appnexus.com,17553,reseller,f5ab79cb980f11d1
+video.unrulymedia.com,365386494,reseller
+smaato.com,1100059282,reseller,07bcf65f187117b4
+adsphere360.com,1051339,reseller
+triplelift.com,10504,reseller,6c33edb13117fd86
+pubmatic.com ,156931,reseller,5d62403b186f2ace
+aniview.com,684a774964540a34ef078e86,direct,78b21b97965ec3f8
+rubiconproject.com,27322,reseller,0bfd66d529a55807
+rubiconproject.com,27320,reseller,0bfd66d529a55807
+brightcom.com,20372,reseller
+thebrave.io,1234736,reseller,c25b2154543746ac
+nexverse.ai,24296,direct
+grouprvn.com,n1o21ga0g23,reseller
+adops.gr,af819db1b95d7ff497cd557b7627a9ba,reseller
+pubmatic.com ,157097,reseller,5d62403b186f2ace
+adform.com,506261,reseller
+adagio.io,1554,reseller
+rubiconproject.com,27396,reseller,0bfd66d529a55807
+my-cast.tv,987156,reseller,8c33fe1bd714ffd7
+algorix.co,604540,reseller,5b394c12fea27a1d
+mcgads.com,wew7m4,reseller
+smaato.com,1100056087,reseller,07bcf65f187117b4
+pubmatic.com,165266,reseller,5d62403b186f2ace
+start.io,178854833,reseller
+rubiconproject.com,25692,reseller,0bfd66d529a55807
+advibe.media,282121,reseller
+adtelligent.com,780299,reseller,8ce87912eb022a51
+aniview.com,619b939a2a18ac2da032a84,reseller,78b21b97965ec3f8
+lijit.com,572209,reseller,fafdf38b16bf6b2b#sovrn
+sspx.tech,dspx146,reseller
+safex.tv,5071,direct
+onetag.com,9349f5ef285da58,reseller
+adform.com,495507,reseller
+loopme.com,15675,reseller,6c8d5f95897a5a3b
+spinx.biz,3198992692,reseller
+siprocalads.com,fdee7o33sd2b5773s1hu6h5im8,reseller
+lijit.com,554226,reseller,fafdf38b16bf6b2b#sovrn
+smartivi.ai,357511,reseller
+conversantmedia.com,100946,reseller,03113cd04947736d
+admixer.net,218,reseller
+adform.com,3064,reseller
+loopme.com,11468,reseller,6c8d5f95897a5a3b
+start.io,197403684,reseller
+filmzie.com,5071,direct
+spinx.biz,1373698865,reseller,9f2711e9aaa9f992
+adyoulike.com,13f72890d6eadc4755958004c95e9ed6,reseller
+nexverse.ai,24296,reseller
+aniview.com,684a774964540a34ef078e86,reseller,78b21b97965ec3f8
+openx.com,557739593,reseller,6a698e2ec38604c6
+indexexchange.com,211613,reseller,50b1c356f2c5c8fc
+intellectscoop.com,646,direct
+orangeclickmedia.com,c-1242,reseller
+sunmedia.tv,952eff0a-6ab3-4083-903d-4a9fb3d837a4,reseller
+themediagrid.com,64nhq1,reseller,35d5010d7789b49d
+media.net,8cu816538,reseller
+brightmountainmedia.com,2686539,reseller
+bidmatic.io,b-be80b,reseller
