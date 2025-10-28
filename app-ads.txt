@@ -11563,3 +11563,16 @@ themediagrid.com,64nhq1,reseller,35d5010d7789b49d
 media.net,8cu816538,reseller
 brightmountainmedia.com,2686539,reseller
 bidmatic.io,b-be80b,reseller
+#adverty 281025
+loopme.com,16347,reseller,6c8d5f95897a5a3b
+rubiconproject.com,22830,reseller,0bfd66d529a55807
+e-planning.net,1f4b8010e3628983,reseller,c1ba615865ed87b2
+xandr.com,13850,reseller,f5ab79cb980f11d1
+sabio.us,100201,reseller,96ed93aaa9795702
+video.unrulymedia.com,390532592,reseller
+smartadserver.com,4423,reseller,060d053dcf45cbf3
+velonium.com,133413,reseller
+adwmg.com,101374,reseller,c9688a22012618e7
+appnexus.com,17244,reseller,f5ab79cb980f11d1
+improvedigital.com,2589,reseller
+media.net,8cuikiuhh,reseller
