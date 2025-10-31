@@ -11576,3 +11576,4 @@ adwmg.com,101374,reseller,c9688a22012618e7
 appnexus.com,17244,reseller,f5ab79cb980f11d1
 improvedigital.com,2589,reseller
 media.net,8cuikiuhh,reseller
+google.com, pub-7221758570802849, DIRECT, f08c47fec0942fa0
