@@ -11637,3 +11637,61 @@ risecodes.com,67e92bf7698942000140acce,reseller
 chocolateplatform.com,21739,reseller
 sharethrough.com,inexmllk,reseller,d53b998a7bd4ecd2
 media.net,8cuiv8d19,reseller
+updatebigo18/11
+rubiconproject.com, 28021, RESELLER, 0bfd66d529a55807
+sharethrough.com, 4610, RESELLER, d53b998a7bd4ecd2
+rubiconproject.com, 27386, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 657436911, RESELLER
+risecodes.com, 68d54e2fe125150001dd91e2, RESELLER
+dauup.com, 34202, DIRECT, 4daba13e2b0dfd92
+smaato.com, 1100059370, RESELLER, 07bcf65f187117b4
+pubnative.net, 1016768, RESELLER, d641df8625486a7b
+inmobi.com, 954d536310204f42acc55e5ebf18bc53, RESELLER, 83e75a7ae333ca9d
+axonix.com, 59187, RESELLER
+conversantmedia.com, 100880, RESELLER, 03113cd04947736d
+152media.info,152M698,RESELLER
+conversantmedia.com, 100659, RESELLER, 03113cd04947736d
+conversantmedia.com, 100713, RESELLER, 03113cd04947736d
+Media.net, 8CUE65SNU ,RESELLER
+33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+supply.colossusssp.com, 907, RESELLER
+intenze.co , 200186 , RESELLER
+leanback.digital, 567912, RESELLER, b1d30350acaf0176
+smoot.ai, 100116, RESELLER
+smartyads.com, 300166, RESELLER, fd2bde0ff2e62c5d
+zetaglobal.net, 848, RESELLER
+sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 296bf9795d, RESELLER, d1a215d9eb5aee9e
+rubiconproject.com, 13380, RESELLER, 0bfd66d529a55807
+improvedigital.com, 2657, RESELLER
+improvedigital.com, 2659, RESELLER
+zetaglobal.net, 512, RESELLER
+outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
+themediagrid.com, WS2D8N, RESELLER, 35d5010d7789b49d
+thunder-monetize.com, 1100057440, RESELLER
+thunder-monetize.com, 1007485, RESELLER
+thunder-monetize.com, 1007055, RESELLER
+thunder-monetize.com, 20744, RESELLER
+start.io, 139527569, RESELLER
+qntv.io, 72910251, DIRECT
+improvedigital.com, 2693, RESELLER
+richaudience.com, uX3kz1todL,RESELLER
+inmobi.com, 7dc16f0c6dec469ba1886d896f71cded, RESELLER, 83e75a7ae333c
+adsolut.in, 18057, DIRECT
+playstream.media, 3185, DIRECT
+pubmatic.com, 162175, RESELLER, 5d62403b186f2ace
+openx.com, 560878260, RESELLER, 6a698e2ec38604c6
+openx.com, 559916143, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 24872, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 24874, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26768, RESELLER, 0bfd66d529a55807
+themediagrid.com, Q6VXLE, DIRECT, 35d5010d7789b49d
+pubmatic.com, 159941, RESELLER, 5d62403b186f2ace
+sharethrough.com, inExmllk, DIRECT, d53b998a7bd4ecd2
+Media.net, 8CUCYCTY4, RESELLER
+admanmedia.com, 2286, DIRECT
+consumable.com, 2001598, DIRECT, aefcd3d2f45b5070
+improvedigital.com,2702,RESELLER
+safex.tv, 5080, DIRECT
+pubmatic.com, 164351, RESELLER, 5d62403b186f2ace
+xandr.com, 13363, RESELLER, f5ab79cb980f11d1
