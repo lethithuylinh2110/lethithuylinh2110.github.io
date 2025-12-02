@@ -11695,3 +11695,38 @@ improvedigital.com,2702,RESELLER
 safex.tv, 5080, DIRECT
 pubmatic.com, 164351, RESELLER, 5d62403b186f2ace
 xandr.com, 13363, RESELLER, f5ab79cb980f11d1
+smartadserver.com,5530,reseller
+conversantmedia.com,100141,reseller
+voisetech.com,1271,reseller,9009ef0379162448
+thejungletechnology.com,3199480,reseller
+connectad.io,456,reseller,85ac85a30c93b3e5
+sharethrough.com,4343,reseller,d53b998a7bd4ecd2
+rubiconproject.com,21642,reseller,0bfd66d529a55807
+33across.com,0015a00002ouk4aaac,reseller,bbea06d9c4d2853c
+bidfuse.com,122,reseller,92bf3d4bb7d08ded
+e-planning.net,83c06e81531537f4,reseller,c1ba615865ed87b2
+smaato.com,1100059563,reseller,07bcf65f187117b4
+adipolo.com,221,reseller
+nexverse.ai,24187,reseller
+intenze.co,3688,reseller
+adagio.io,1587,reseller
+33across.com,0010b00002dvkxbaag,reseller,bbea06d9c4d2853c
+lijit.com,560797,reseller,fafdf38b16bf6b2b#sovrn
+rubiconproject.com,27957,reseller,0bfd66d529a55807
+pgamssp.com,6904bcd95b911673d5088e94,reseller
+krushmedia.com,ajxf6r196a9m6catvk,reseller
+orangeclickmedia.com,c25mob1,reseller
+pubmatic.com,167130,reseller,5d62403b186f2ace
+smilewanted.com,4766,reseller
+chocolateplatform.com,21364,reseller
+lijit.com,367236,reseller,fafdf38b16bf6b2b
+mobupps.com,c74d97b01eae257e44aa9d5bade97baf30612,direct
+toponad.com,1684fe58a45629,reseller,1d49fe424a1a456d
+freewheel.tv,sg1256491,reseller
+smartadserver.com,4972,reseller,060d053dcf45cbf3
+orangeclickmedia.com,c25mob3,reseller
+gamoshi.io,267-b850,reseller,20e30b2ae1f670f2
+eskimi.com,22950519347,reseller
+supply.colossusssp.com,610,reseller,6c5b49d96ec1b458
+orangeclickmedia.com,c25mob2,reseller
+freewheel.tv,534465-r-523319,reseller
