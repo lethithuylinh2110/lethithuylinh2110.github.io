@@ -11732,3 +11732,10 @@ supply.colossusssp.com,610,reseller,6c5b49d96ec1b458
 orangeclickmedia.com,c25mob2,reseller
 freewheel.tv,534465-r-523319,reseller
 auxoads.com,327b1,direct
+performist.net,100048,direct
+pubmatic.com,166212,reseller,5d62403b186f2ace
+rightxchange.com,rexadg293,direct
+programmaticians.com,pgadg293,direct
+ogury.com,38e06767-e6be-4913-9e7f-2bccd258f814,reseller
+biddigi.com,adg293,direct
+eskimi.com,2020001208,direct
