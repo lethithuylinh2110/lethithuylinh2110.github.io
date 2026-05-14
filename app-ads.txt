@@ -14580,3 +14580,9 @@ adverty.com,1995/3065,direct,2b1a2f9cd997fcab
 adverty.com,1601/2182,direct,2b1a2f9cd997fcab
 adverty.com,1945/2605,direct,2b1a2f9cd997fcab
 adverty.com,2117/2800,direct,2b1a2f9cd997fcab
+greedygame.com, 3284022788306553, DIRECT
+google.com, pub-1067374679252537, RESELLER, f08c47fec0942fa0
+google.com, pub-2749054827332983, RESELLER, f08c47fec0942fa0
+pubmatic.com, 161480, RESELLER, 5d62403b186f2ace
+pubmatic.com, 162539, RESELLER, 5d62403b186f2ace
+google.com,pub-4686405784285870, RESELLER, f08c47fec0942fa0
